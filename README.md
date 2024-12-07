@@ -1,0 +1,1 @@
+This repository demonstrates a common mistake in Kotlin when using the removeIf function on collections.  Modifying a collection while iterating over it can lead to unexpected results. The example shows how to use removeIf correctly and avoid these issues.
